@@ -1,4 +1,4 @@
-# RSI + Stochastic (Pine Script v6)
+# RSI + Stochastic
 
 ![Pine Script Version](https://img.shields.io/badge/Pine%20Script-v6-blue?style=flat-proportional)
 ![Platform](https://img.shields.io/badge/Platform-TradingView-brightgreen)
@@ -8,6 +8,8 @@
 
 By combining these two popular oscillators, traders can monitor momentum confirmation (RSI) alongside the speed of price changes (Stochastic) within a single, clean, and efficient visual display.
 
+---
+![Preview](preview.png)
 ---
 
 ## Key Features
